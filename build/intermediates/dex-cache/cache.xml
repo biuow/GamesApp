@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alex\.android\build-cache\fe0a8009f4bfa14e95f3c4ca6b18de3a48724fb8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\Alex\Desktop\Desk\Android\AlexP1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12501d795a1ec20ec3f7c446830a13a2e66f32e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alex\Desktop\Desk\Android\AlexP1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b0f9a3fa7dbd50865ca33c37bfdef760ecbc4af8">
+        <dex dex="C:\Users\Alex\Desktop\Desk\Android\AlexP1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e0a74896fb7602df226d8e516407e7a977d87b60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alex\.android\build-cache\566e5df548f65d1e129a2a0962397cf19510a4b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\Alex\Desktop\Desk\Android\AlexP1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a7c7270be4e97e7a336dd066bad04fbe26be643a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alex\.android\build-cache\d5d8886412dcedf6eb66d628ee58bc4f8681b06a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\Alex\Desktop\Desk\Android\AlexP1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_80a5ec18336e263b6c21d9f20c391c914b820c0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alex\Desktop\Desk\Android\AlexP1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\Alex\Desktop\Desk\Android\AlexP1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b215d2d1d60716b32ff6d5a28fdb7fceae263b58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alex\.android\build-cache\5913ee839d2c3913ca6cb642c718a96aa8fa60fc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\Alex\Desktop\Desk\Android\AlexP1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09bc1cf456427cd7fe3149a3d31e4b65f8631cd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alex\.android\build-cache\3e3febb41d2dcc240c750d80182a33537ed98fa5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\Alex\Desktop\Desk\Android\AlexP1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dacad4546d12b2b43531bcc3e1fd6ad6f0de1e65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alex\.android\build-cache\22411c62520c65eaa397bf9b7c5935072c2a6ea2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\Alex\Desktop\Desk\Android\AlexP1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1cd50123541d3bd738052497379e78d468c7ce15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alex\.android\build-cache\66f19c2b860afdad772e192caf1c2bda5bbc94d6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\Alex\Desktop\Desk\Android\AlexP1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28224284a137fa8c9b0f9cb02c219304b8dbdbb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alex\.android\build-cache\d20cd1b5e609e1ac60471d514e29f0094f720921\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\Alex\Desktop\Desk\Android\AlexP1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f785308f78d506b52da4cba10e4628a7e587689f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alex\.android\build-cache\077f7793b9eb4ee8a61a389d7f1131f8b95e43e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Alex\Desktop\Desk\Android\AlexP1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_71268f0ea27bb156c2cc1c3b0ee233d46b58ef9e\classes.dex" />
+    </item>
+
+</items>

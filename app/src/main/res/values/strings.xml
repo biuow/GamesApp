@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AlexP1</string>
+    <string name="player">Jogador: %s</string>
+    <string name="vencedor">%s venceu!!!</string>
+    <string name="velha">Deu velha!!</string>
+</resources>

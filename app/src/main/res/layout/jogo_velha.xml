@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center"
+    android:background="#99ffd6"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:layout_weight="0"
+        android:textSize="32sp"
+        android:paddingBottom="16dp"
+        android:textColor="#004d26"
+        android:text="JOGO DA VELHA"
+        android:fontFamily="casual"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+            <ImageButton
+                android:onClick="clickListener"
+                android:id="@+id/b0"
+                android:layout_weight="1"
+                android:scaleType="fitXY"
+                android:background="#00cc99"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+            <ImageButton
+                android:onClick="clickListener"
+                android:id="@+id/b1"
+                android:layout_weight="1"
+                android:scaleType="fitXY"
+                android:background="#00cc99"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+            <ImageButton
+                android:onClick="clickListener"
+                android:id="@+id/b2"
+                android:layout_weight="1"
+                android:scaleType="fitXY"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:background="#00cc99"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+            <ImageButton
+                android:onClick="clickListener"
+                android:id="@+id/b3"
+                android:layout_weight="1"
+                android:scaleType="fitXY"
+                android:background="#00cc99"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+            <ImageButton
+                android:onClick="clickListener"
+                android:id="@+id/b4"
+                android:layout_weight="1"
+                android:scaleType="fitXY"
+                android:background="#00cc99"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+            <ImageButton
+                android:onClick="clickListener"
+                android:id="@+id/b5"
+                android:layout_weight="1"
+                android:scaleType="fitXY"
+                android:background="#00cc99"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+            <ImageButton
+                android:onClick="clickListener"
+                android:id="@+id/b6"
+                android:layout_weight="1"
+                android:scaleType="fitXY"
+                android:background="#00cc99"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+            <ImageButton
+                android:onClick="clickListener"
+                android:id="@+id/b7"
+                android:layout_weight="1"
+                android:scaleType="fitXY"
+                android:background="#00cc99"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+            <ImageButton
+                android:onClick="clickListener"
+                android:id="@+id/b8"
+                android:layout_weight="1"
+                android:scaleType="fitXY"
+                android:background="#00cc99"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+    </LinearLayout>
+    <TextView
+        android:layout_weight="0"
+        android:textSize="32sp"
+        android:id="@+id/tv_jogada"
+        android:text="Jogador: Humano"
+        android:fontFamily="casual"
+        android:textColor="#004d26"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
+        android:onClick="reiniciar"
+        android:text="REINICIAR"
+        android:background="#00663d"
+        android:textColor="#ffffff"
+        android:textSize="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
